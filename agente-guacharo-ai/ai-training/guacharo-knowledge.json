@@ -1,0 +1,375 @@
+{
+  "lottery_info": {
+    "name": "Guacharo Activo",
+    "country": "Venezuela",
+    "type": "animal_lottery",
+    "total_animals": 36,
+    "daily_draws": 8,
+    "draw_times": ["9:00", "11:00", "1:00", "3:00", "5:00", "7:00", "9:00", "11:00"],
+    "betting_modes": ["Directo", "Combinado", "Terminales", "Centenas"]
+  },
+  "animals": [
+    {
+      "id": 1,
+      "name": "Danta",
+      "number": "00",
+      "characteristics": ["mamífero", "terrestre", "herbívoro"],
+      "lucky_days": ["lunes", "miércoles"],
+      "color_association": "marrón",
+      "element": "tierra"
+    },
+    {
+      "id": 2,
+      "name": "Águila",
+      "number": "01",
+      "characteristics": ["ave", "volador", "carnívoro", "rapaz"],
+      "lucky_days": ["martes", "viernes"],
+      "color_association": "dorado",
+      "element": "aire"
+    },
+    {
+      "id": 3,
+      "name": "Burro",
+      "number": "02",
+      "characteristics": ["mamífero", "doméstico", "trabajador"],
+      "lucky_days": ["sábado", "domingo"],
+      "color_association": "gris",
+      "element": "tierra"
+    },
+    {
+      "id": 4,
+      "name": "Alacrán",
+      "number": "03",
+      "characteristics": ["arácnido", "venenoso", "nocturno"],
+      "lucky_days": ["martes", "jueves"],
+      "color_association": "negro",
+      "element": "agua"
+    },
+    {
+      "id": 5,
+      "name": "León",
+      "number": "04",
+      "characteristics": ["mamífero", "felino", "rey", "carnívoro"],
+      "lucky_days": ["domingo", "martes"],
+      "color_association": "dorado",
+      "element": "fuego"
+    },
+    {
+      "id": 6,
+      "name": "Rana",
+      "number": "05",
+      "characteristics": ["anfibio", "acuático", "saltador"],
+      "lucky_days": ["lunes", "jueves"],
+      "color_association": "verde",
+      "element": "agua"
+    },
+    {
+      "id": 7,
+      "name": "Ratón",
+      "number": "06",
+      "characteristics": ["mamífero", "roedor", "pequeño", "ágil"],
+      "lucky_days": ["miércoles", "viernes"],
+      "color_association": "gris",
+      "element": "tierra"
+    },
+    {
+      "id": 8,
+      "name": "Tigre",
+      "number": "07",
+      "characteristics": ["mamífero", "felino", "rayado", "cazador"],
+      "lucky_days": ["martes", "sábado"],
+      "color_association": "naranja",
+      "element": "fuego"
+    },
+    {
+      "id": 9,
+      "name": "Gato",
+      "number": "08",
+      "characteristics": ["mamífero", "felino", "doméstico", "independiente"],
+      "lucky_days": ["viernes", "domingo"],
+      "color_association": "negro",
+      "element": "tierra"
+    },
+    {
+      "id": 10,
+      "name": "Elefante",
+      "number": "09",
+      "characteristics": ["mamífero", "grande", "memoria", "inteligente"],
+      "lucky_days": ["lunes", "sábado"],
+      "color_association": "gris",
+      "element": "tierra"
+    },
+    {
+      "id": 11,
+      "name": "Caimán",
+      "number": "10",
+      "characteristics": ["reptil", "acuático", "carnívoro", "prehistórico"],
+      "lucky_days": ["miércoles", "sábado"],
+      "color_association": "verde",
+      "element": "agua"
+    },
+    {
+      "id": 12,
+      "name": "Gallo",
+      "number": "11",
+      "characteristics": ["ave", "doméstico", "madrugador", "orgulloso"],
+      "lucky_days": ["domingo", "miércoles"],
+      "color_association": "rojo",
+      "element": "fuego"
+    },
+    {
+      "id": 13,
+      "name": "Caballo",
+      "number": "12",
+      "characteristics": ["mamífero", "equino", "veloz", "noble"],
+      "lucky_days": ["martes", "jueves"],
+      "color_association": "marrón",
+      "element": "fuego"
+    },
+    {
+      "id": 14,
+      "name": "Mono",
+      "number": "13",
+      "characteristics": ["mamífero", "primate", "ágil", "inteligente"],
+      "lucky_days": ["lunes", "viernes"],
+      "color_association": "marrón",
+      "element": "aire"
+    },
+    {
+      "id": 15,
+      "name": "Venado",
+      "number": "14",
+      "characteristics": ["mamífero", "herbívoro", "veloz", "cornudo"],
+      "lucky_days": ["jueves", "domingo"],
+      "color_association": "marrón",
+      "element": "tierra"
+    },
+    {
+      "id": 16,
+      "name": "Zorro",
+      "number": "15",
+      "characteristics": ["mamífero", "astuto", "nocturno", "cazador"],
+      "lucky_days": ["miércoles", "viernes"],
+      "color_association": "rojo",
+      "element": "fuego"
+    },
+    {
+      "id": 17,
+      "name": "Oso",
+      "number": "16",
+      "characteristics": ["mamífero", "grande", "fuerte", "omnívoro"],
+      "lucky_days": ["lunes", "sábado"],
+      "color_association": "marrón",
+      "element": "tierra"
+    },
+    {
+      "id": 18,
+      "name": "Pavo",
+      "number": "17",
+      "characteristics": ["ave", "doméstico", "colorido", "vanidoso"],
+      "lucky_days": ["domingo", "jueves"],
+      "color_association": "azul",
+      "element": "aire"
+    },
+    {
+      "id": 19,
+      "name": "Burra",
+      "number": "18",
+      "characteristics": ["mamífero", "equino", "trabajadora", "resistente"],
+      "lucky_days": ["martes", "sábado"],
+      "color_association": "gris",
+      "element": "tierra"
+    },
+    {
+      "id": 20,
+      "name": "Chivo",
+      "number": "19",
+      "characteristics": ["mamífero", "caprino", "montañero", "terco"],
+      "lucky_days": ["miércoles", "domingo"],
+      "color_association": "blanco",
+      "element": "tierra"
+    },
+    {
+      "id": 21,
+      "name": "Cochino",
+      "number": "20",
+      "characteristics": ["mamífero", "doméstico", "omnívoro", "inteligente"],
+      "lucky_days": ["viernes", "lunes"],
+      "color_association": "rosado",
+      "element": "tierra"
+    },
+    {
+      "id": 22,
+      "name": "Culebra",
+      "number": "21",
+      "characteristics": ["reptil", "sin patas", "venenosa", "flexible"],
+      "lucky_days": ["martes", "jueves"],
+      "color_association": "verde",
+      "element": "agua"
+    },
+    {
+      "id": 23,
+      "name": "Mariposa",
+      "number": "22",
+      "characteristics": ["insecto", "volador", "colorido", "transformación"],
+      "lucky_days": ["miércoles", "viernes"],
+      "color_association": "multicolor",
+      "element": "aire"
+    },
+    {
+      "id": 24,
+      "name": "Perro",
+      "number": "23",
+      "characteristics": ["mamífero", "doméstico", "leal", "guardián"],
+      "lucky_days": ["todos los días"],
+      "color_association": "marrón",
+      "element": "tierra"
+    },
+    {
+      "id": 25,
+      "name": "Zamuro",
+      "number": "24",
+      "characteristics": ["ave", "carroñero", "volador", "limpiador"],
+      "lucky_days": ["lunes", "jueves"],
+      "color_association": "negro",
+      "element": "aire"
+    },
+    {
+      "id": 26,
+      "name": "Gallina",
+      "number": "25",
+      "characteristics": ["ave", "doméstica", "ponedora", "maternal"],
+      "lucky_days": ["domingo", "miércoles"],
+      "color_association": "blanco",
+      "element": "tierra"
+    },
+    {
+      "id": 27,
+      "name": "Iguana",
+      "number": "26",
+      "characteristics": ["reptil", "herbívoro", "escalador", "tranquilo"],
+      "lucky_days": ["sábado", "martes"],
+      "color_association": "verde",
+      "element": "tierra"
+    },
+    {
+      "id": 28,
+      "name": "Pescado",
+      "number": "27",
+      "characteristics": ["pez", "acuático", "nadador", "escamas"],
+      "lucky_days": ["viernes", "domingo"],
+      "color_association": "plateado",
+      "element": "agua"
+    },
+    {
+      "id": 29,
+      "name": "Chucho",
+      "number": "28",
+      "characteristics": ["pez", "raya", "acuático", "plano"],
+      "lucky_days": ["lunes", "jueves"],
+      "color_association": "gris",
+      "element": "agua"
+    },
+    {
+      "id": 30,
+      "name": "Perico",
+      "number": "29",
+      "characteristics": ["ave", "parlanchín", "colorido", "inteligente"],
+      "lucky_days": ["miércoles", "sábado"],
+      "color_association": "verde",
+      "element": "aire"
+    },
+    {
+      "id": 31,
+      "name": "Morrocoy",
+      "number": "30",
+      "characteristics": ["reptil", "terrestre", "lento", "longevo"],
+      "lucky_days": ["domingo", "martes"],
+      "color_association": "verde",
+      "element": "tierra"
+    },
+    {
+      "id": 32,
+      "name": "Lapa",
+      "number": "31",
+      "characteristics": ["mamífero", "roedor", "nocturno", "excavador"],
+      "lucky_days": ["jueves", "sábado"],
+      "color_association": "marrón",
+      "element": "tierra"
+    },
+    {
+      "id": 33,
+      "name": "Ardilla",
+      "number": "32",
+      "characteristics": ["mamífero", "roedor", "ágil", "recolector"],
+      "lucky_days": ["viernes", "lunes"],
+      "color_association": "marrón",
+      "element": "aire"
+    },
+    {
+      "id": 34,
+      "name": "Cangrejo",
+      "number": "33",
+      "characteristics": ["crustáceo", "acuático", "pinzas", "lateral"],
+      "lucky_days": ["martes", "domingo"],
+      "color_association": "rojo",
+      "element": "agua"
+    },
+    {
+      "id": 35,
+      "name": "Delfín",
+      "number": "34",
+      "characteristics": ["mamífero", "marino", "inteligente", "juguetón"],
+      "lucky_days": ["miércoles", "viernes"],
+      "color_association": "azul",
+      "element": "agua"
+    },
+    {
+      "id": 36,
+      "name": "Gavilán",
+      "number": "35",
+      "characteristics": ["ave", "rapaz", "volador", "cazador"],
+      "lucky_days": ["jueves", "sábado"],
+      "color_association": "gris",
+      "element": "aire"
+    }
+  ],
+  "patterns": {
+    "weekly_cycles": [
+      "Cada 7 días hay tendencia de repetición",
+      "Los fines de semana favorecen animales domésticos",
+      "Lunes son propicios para nuevos ciclos"
+    ],
+    "numerical_sequences": [
+      "Secuencias ascendentes de 3-4 números",
+      "Números pares en horarios pares",
+      "Números impares en horarios impares"
+    ],
+    "animal_groups": {
+      "mamiferos": ["Danta", "León", "Tigre", "Gato", "Elefante", "Caballo", "Mono", "Venado", "Zorro", "Oso", "Burra", "Chivo", "Cochino", "Perro", "Lapa", "Ardilla", "Delfín"],
+      "aves": ["Águila", "Gallo", "Pavo", "Zamuro", "Gallina", "Perico", "Gavilán"],
+      "reptiles": ["Caimán", "Culebra", "Iguana", "Morrocoy"],
+      "acuaticos": ["Rana", "Caimán", "Pescado", "Chucho", "Cangrejo", "Delfín"],
+      "domesticos": ["Burro", "Gato", "Gallo", "Caballo", "Burra", "Chivo", "Cochino", "Perro", "Gallina"]
+    }
+  },
+  "analysis_methods": {
+    "frequency_analysis": "Análisis de frecuencia de aparición por animal",
+    "temporal_patterns": "Patrones basados en hora del día y día de la semana",
+    "cyclical_analysis": "Ciclos de aparición de 3, 7, 14 y 21 días",
+    "numerical_correlation": "Correlación entre números y características de animales",
+    "statistical_probability": "Cálculo de probabilidades basado en datos históricos"
+  },
+  "common_questions": [
+    "¿Cuál animal ha salido más?",
+    "¿Qué animal me recomiendas?",
+    "Analiza los patrones de hoy",
+    "¿Cuándo fue la última vez que salió el león?",
+    "Muéstrame las estadísticas de esta semana",
+    "¿Qué probabilidad tiene el águila?",
+    "Analiza el patrón del perro",
+    "¿Cuáles son los animales más frecuentes?",
+    "Hazme una predicción para la próxima hora",
+    "¿Qué tendencia hay en los números pares?"
+  ]
+}
